@@ -130,7 +130,8 @@ int main(void)
 
 <img width="3024" height="4032" alt="IMG_3533" src="https://github.com/user-attachments/assets/65d0f776-7c4d-4caf-ac4f-4dc3f2c5551b" />
 
-<img width="3024" height="4032" alt="IMG_3534" src="https://github.com/user-attachments/assets/fe485e2f-613c-4893-8769-3614828e7b8f" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e14f9744-6250-4c1e-8f87-4971bdd9e6d3" />
+
 
 ## Result
 
